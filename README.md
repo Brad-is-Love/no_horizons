@@ -1,2 +1,2 @@
-# no_horizons
-Smart contracts for 2044: No Horizons
+# Shards of Harmony
+Smart contracts for 2044: Shards of Harmony
